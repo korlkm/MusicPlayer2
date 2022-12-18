@@ -1,6 +1,6 @@
 # MusicPlayer2
 간단하게 구성만 함
-// player를 전역 변수로 선언하여 Android Life Cycle에 맞춰서 player를 다뤄야하기 때문
+// player를 전역 변수로 선언하여 Android Life Cycle에 맞춰서 player를 다룸
 // 플레이할 샘플 노래의 url을 전역변수로 선언
 //
 //onCreate 함수에 initializePlayer 함수를 추가하고, onCreated 함수 하단에 private으로 initializePlayer 함수를 정의해준다.
